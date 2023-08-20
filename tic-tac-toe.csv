@@ -1,4 +1,4 @@
-t_left,t_middle,t_rigth,m_left,m_middle,m_rigth,b_left,b_middle,b_rigth,result
+T_left,T_middle,T_rigth,M_left,M_middle,M_rigth,B_left,B_middle,B_rigth,Result
 x,x,x,x,o,o,x,o,o,positive
 x,x,x,x,o,o,o,x,o,positive
 x,x,x,x,o,o,o,o,x,positive
